@@ -8,10 +8,17 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "health score",
+    "customer success",
+    "SaaS metrics",
+    "customer health",
+    "CS tools",
+    "CRM health score"
+  ],
+  "author": "Your Name",
   "license": "ISC",
-  "description": "",
+  "description": "A customer health score calculator for SaaS, subscription or service businesses that use a CRM",
   "dependencies": {
     "lucide-react": "^0.460.0",
     "react": "^18.2.0",
