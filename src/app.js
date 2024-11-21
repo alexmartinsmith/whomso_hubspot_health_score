@@ -197,9 +197,6 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Health Score Builder</h1>
-      <h2>Build your health score by adding inputs and values.</h2>
-      
       <div className="metrics-container">
         <div className="gauge-section">
           <h3>Weight Distribution</h3>
@@ -354,5 +351,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
